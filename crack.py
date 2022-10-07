@@ -84,7 +84,7 @@ def notice():
 	os.system("xdg-open https://www.facebook.com/profile.php?id=100072883587040")
 	runtxt("\033[0;97m THIS YOUR KEY COPY TO 👉 >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m AUTOMATIC OPEN OWNER ID JUST SMS TO YOUR KEY")
-	os.system("xdg-open https://www.facebook.com/YASIRALIMEKKAN")
+	os.system("xdg-open https://www.facebook.com/profile.php?id=100072883587040")
 	subprocess.check_output(["am", "start", "https://github.com/playboy167/dark-net"])
 	
  
